@@ -1,0 +1,15 @@
+C:\Users\allex\source\repos\NetworkChat\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\allex\source\repos\NetworkChat\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\allex\source\repos\NetworkChat\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\allex\source\repos\NetworkChat\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\allex\source\repos\NetworkChat\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\allex\source\repos\NetworkChat\ChatClient\obj\Debug\App.g.cs
+C:\Users\allex\source\repos\NetworkChat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\allex\source\repos\NetworkChat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\allex\source\repos\NetworkChat\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\allex\source\repos\NetworkChat\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\allex\source\repos\NetworkChat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\allex\source\repos\NetworkChat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\allex\source\repos\NetworkChat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\allex\source\repos\NetworkChat\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\allex\source\repos\NetworkChat\ChatClient\obj\Debug\ChatClient.pdb

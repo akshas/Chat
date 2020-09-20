@@ -1,0 +1,7 @@
+C:\Users\allex\source\repos\NetworkChat\chat\bin\Debug\chat.exe.config
+C:\Users\allex\source\repos\NetworkChat\chat\bin\Debug\chat.exe
+C:\Users\allex\source\repos\NetworkChat\chat\bin\Debug\chat.pdb
+C:\Users\allex\source\repos\NetworkChat\chat\obj\Debug\chat.csprojAssemblyReference.cache
+C:\Users\allex\source\repos\NetworkChat\chat\obj\Debug\chat.csproj.CoreCompileInputs.cache
+C:\Users\allex\source\repos\NetworkChat\chat\obj\Debug\chat.exe
+C:\Users\allex\source\repos\NetworkChat\chat\obj\Debug\chat.pdb
